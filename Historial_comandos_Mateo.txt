@@ -1,0 +1,103 @@
+tree
+ls
+sudo apt install tree
+tree
+sudo apt intall tree
+sudo apt install tree
+snap intall tree
+snap install tre
+sudo install tree
+tree
+apt install tree
+pwd
+cd
+cd/
+cd /
+sudo apt install tree
+snap install tree
+tree
+snap install tree
+sudo snap install tree
+tree
+shutdown 0
+cs
+cd
+shoutdown 0
+shutdown
+tree
+ssh-keygen -t ed25519
+pwd
+cat $HOME/ .ssh/*.pub
+pẃd
+pwd
+mkdir repogit
+mkdir -p
+cd repogit
+git clone git@github.com:mateoirri23/TP1_AY_SO.git
+cd TP1_AY_SO/
+pwd
+ls -l
+cat /etc/os-realease
+pwd
+ls -l
+cat /etc/os-release
+man grep
+grep -i HOME_URL /etc/os-release
+grep home_url /etc/os-release
+whoami
+echo "Usuario=$(whoami)" > datos_usuario.txt
+ls
+git add .
+git config --global user.email "irizarrimate@gmail.com"
+git config --globaluser.name "irizarrimate"
+git config --global user.name "irizarrimate"
+git commit -m "ADD: agregado 1er ejercicio sobre datos _usuario.txt"
+git status
+git push
+grep
+cd /repogit/TP1_AY_SO
+cd repogit
+cd TP1_AY_SO
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt}
+cat <<EOF >> README.md
+alumno: Mateo
+Division 315 Turno: Noche
+EOF
+
+git add README.md datos_usuarios.txt
+git add README.md datos _usuario.txt
+git add README.md datos_usuarios.txt
+git commit -m "ADD:Añadiendo Readme y datos usuario"
+git add README.md datos_usuarios.txt
+cat /etc/os-relese
+cat /etc/os-release
+man grep
+grep home_url /etc/os-release
+grep -i HOME_URL /etc/os-release
+grep home_url /etc/os-release
+whoami
+echo "Usuario=$(whoami)" > datos_usuario.txt
+ls
+git add .
+git config --global user.email "irizarrimate@gmail.com"
+git config --global user.name "Mirizarri"
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuario.txt"
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuarios.txt}
+cat <<EOF >> README.md
+Alumno: Mateo 
+Division: 314 Turno: Noche 
+EOF
+
+git add README.md datos_usuarios.txt}
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git push
+history -a
+cd
+history -a 
+$HOME/.bash_history
+history -a
+/bash_history ./Historial_comandos_Mateo.txt
+/.bash_history ./Historial_comandos_Mateo.txt
+cd repogit
+cd TP1_AY_SO
+history -a
